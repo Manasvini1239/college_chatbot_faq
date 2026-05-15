@@ -26,4 +26,32 @@ Courses:
 Available courses include Computer Science, Mechanical Engineering, Civil Engineering, and Business Administration.
 
 Contact:
-Admission office email is admissions@college.edu
+Admission office email is admissions@college.edu.
+
+Transport:
+College buses are available on 15 routes across the city.
+
+Cafeteria:
+The cafeteria is open from 7 AM to 7 PM and serves vegetarian and non-vegetarian meals.
+
+Sports:
+Facilities include cricket ground, basketball court, football field, badminton court, and gymnasium.
+
+Internships:
+Students are encouraged to complete at least one internship before graduation.
+
+WiFi:
+Free WiFi is available across campus for all registered students.
+
+Medical:
+A health center with a full-time nurse and visiting doctor is available on campus.
+
+Events:
+Annual cultural fest and technical symposium are conducted every year.
+
+Clubs:
+Student clubs include coding club, robotics club, dance club, music club, and photography club.
+
+Labs:
+Computer labs are open from 9 AM to 6 PM on working days.
+
